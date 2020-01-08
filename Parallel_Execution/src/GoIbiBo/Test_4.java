@@ -11,6 +11,7 @@ public class Test_4 {
 		String appurl = "https://www.goibibo.com/";
 		driver.get(appurl);
 		driver.manage().window().maximize();
+		System.out.println("Done");
 
 	}
 
