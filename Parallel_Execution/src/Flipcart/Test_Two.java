@@ -12,5 +12,7 @@ public class Test_Two {
 		String appurl = "https://www.flipkart.com/";
 		driver.get(appurl);
 		driver.manage().window().maximize();
+		System.out.println("Done");
+
   }
 }

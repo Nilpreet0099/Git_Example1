@@ -12,5 +12,7 @@ public class Test_3 {
 		String appurl = "https://www.myntra.com/";
 		driver.get(appurl);
 		driver.manage().window().maximize();
+		System.out.println("Done");
+
   }
 }
