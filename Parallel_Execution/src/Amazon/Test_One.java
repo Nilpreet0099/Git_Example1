@@ -12,6 +12,6 @@ public class Test_One {
 		String appurl = "https://www.amazon.in/";
 		driver.get(appurl);
 		driver.manage().window().maximize();
-		System.out.println("Done");
+		System.out.println("Done!");
   }
 }
